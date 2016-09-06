@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EDetour</string>
+
+    <string-array name="arr_civilStatus">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Widowed</item>
+    </string-array>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
